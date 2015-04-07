@@ -30,18 +30,24 @@ Both verbs and nouns inflect for politeness.
 
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
-|     | Singular                           | Plural                      |
-|-----|------------------------------------|-----------------------------|
-| 1st | 나 *na*), 저 *jeo*)                | 우리 *uri*), 저희 *jeohui*) |
-| 2nd | 너 *neo*)                          | 너희 *neohui*)              |
-| 3rd | 그 *geu*, he)/그녀 *geunyeo*, she) | 그들 *geudeul*)             |
+|     | Singular                             | Plural                       |
+|-----|--------------------------------------|------------------------------|
+| 1st | 나 (*na*), 저 (*jeo*)                | 우리 (*uri*), 저희 *jeohui*) |
+| 2nd | 너 (*neo*)                           | 너희 (*neohui*)              |
+| 3rd | 그 (*geu*, he)/그녀 (*geunyeo*, she) | 그들 (*geudeul*)             |
 
 ## Speakers
-Who speaks the language? etc.
+
+Korean is the official language of South and North Korean, and is worldwide
+spoken by about 80 million people. Of those, about 51 million reside in South
+Korea, and about 7 million overseas (2013). 80% of Korean expatriates live in
+China, the US, and Japan.
 
 ## Script, publications
 
-Hangul, Left to right, Book publications, Articles, 100% literacy rate (read and write), no impediments (there are korean keyboards)
+Korean uses an alphabet known as Hangul. Hangul has 24 letter grouped into blocks (*han*), which each represent a syllable. For example, the block 한 (*han*) is a composition of the letters ㅎ (h), ㅏ (a), ㄴ (n). Internally, the letters in a block are ordered left to right and top to bottom, and sequences of blocks are written left-to-right.
+
+There is approximately a 100% literacy rate (reading/writing) within South Korea. The country has many major publications, including books, newspapers, journals, websites, etc. There are no major impediments for literacy.
 
 ## MT Systems
 Google Translate, Naver Translate,
