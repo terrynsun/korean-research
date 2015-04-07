@@ -54,8 +54,13 @@ Most Machine Translation systems have systems in Korean (e.g., Google, Bing, and
 The following paragrah is an excerpt from Wikipedia's article on Computer Science:
 "There is a sub-field of computer science applications can be divided into purely theoretical and practical skills in the field of computer systems running on your computer. It is calculated as the basic properties and also some theoretical calculations to study the complexity of the problem is very abstract, and other computer graphics and it focuses on real-world applications. Another sub-field focuses on the calculation execution. For example, programming language theory and study the approach of calculation described above, the computer program itself study investigating different aspects of using the programming language and the complex system, human-computer interaction with the computer to calculate a useful and humans emphasis to easily create a universally accessible."
 
+## NLP Research in Korean
+There are many academics and professionals who are conducting research in Korean. As shown from previous examples, there is a group in Penn whose focus is Korean. Additionally, there are many domestic universities in Korea that run NLP / Machine Translation labs (e.g., POSTECH(http://nlp.postech.ac.kr/), KAIST(http://nlpcl.kaist.ac.kr/home/), and SNU (http://ids.snu.ac.kr/wiki/Intelligent_Data_Systems_Laboratory)). 
+
 ## NLP Tools in Korean
 There are exists many NLP tools that allow people to computationally analyze Korean language. Penn has Korean NLP group which consists of three main projects: Korean XTAG, Korean Treebank, and Korean/English Machine Translation (http://www.cis.upenn.edu/~xtag/koreantag/). Korean XTAG is an on-going project attempting to develop a Korean grammar using Feature-Based Lexicalized Tree Adjoining Grammar (LTAG) formalism. A Korean Treebank is a corpus annotated with morphological and syntactic information, similar to what we have seen in other tree banks. Korean Corpus is also available, which is retrieved mostly from the texts of military language training manuals. Along with Korean Corpus, the Part-of-speech tagging method is available.
 
-Also, there is a Korean NLP package written in Python, called "KoNLP." (http://dm.snu.ac.kr/~epark/docs/2014-10-10-hclt.pdf) It provides the basic functionality of NLP analysis such as POS tagging, and the structure of the package resembles that of NLTK package. 
+The National Institute of the Korean Language (NIKL) also provides information on Corpus and morphological analysis through its website, and contains may open source resources such as KoKoMa NLP toolkit.
+
+Also, there is a Korean NLP package written in Python, called "KoNLP." (http://dm.snu.ac.kr/~epark/docs/2014-10-10-hclt.pdf) It provides the basic functionality of NLP analysis such as POS tagging, and morphological analysis. The structure of the package resembles that of NLTK package, so it is relatively easy to use. 
 
