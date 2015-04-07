@@ -1,4 +1,4 @@
-Core Requirement
+# Core Requirement
 
 Korean is a SOV (subject-object-verb) language. The relative order of words in a sentence is fixed, but both the subject and object can be dropped (and become implied) from a sentence.
 너 (you) 밥 (rice) 먹었어 (ate)?
@@ -30,14 +30,18 @@ Both verbs and nouns inflect for politeness.
 
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
-|     | Singular                         | Plural                    |
-|-----+----------------------------------+---------------------------|
+|     | Singular                           | Plural                      |
+|-----|------------------------------------|-----------------------------|
 | 1st | 나 *na*), 저 *jeo*)                | 우리 *uri*), 저희 *jeohui*) |
-| 2nd | 너 *neo*)                         | 너희 *neohui*)             |
-| 3rd | 그 *geu*, he)/그녀 *geunyeo*, she) | 그들 *geudeul*)            |
+| 2nd | 너 *neo*)                          | 너희 *neohui*)              |
+| 3rd | 그 *geu*, he)/그녀 *geunyeo*, she) | 그들 *geudeul*)             |
 
-#2)
+## Speakers
+Who speaks the language? etc.
 
-#3) Hangul, Left to right, Book publications, Articles, 100% literacy rate (read and write), no impediments (there are korean keyboards)
+## Script, publications
 
-#4) Google Translate, Naver Translate,
+Hangul, Left to right, Book publications, Articles, 100% literacy rate (read and write), no impediments (there are korean keyboards)
+
+## MT Systems
+Google Translate, Naver Translate,
