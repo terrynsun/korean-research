@@ -44,8 +44,16 @@ Korea, and about 7 million overseas (2013). 80% of Korean expatriates live in
 China, the US, and Japan.
 
 ## Script, publications
+1. History of Korean Script (Hangul)
+Korean uses an alphabetical system known as Hangul, which was introduced in 15th century during Chosun Dynasty. The verbal Korean language has been existing as early as 18 BC when the age of Three Kingdoms began, where each kingdom had its own language system that slightly differed from each other. Upon the unification of Korean peninsula in late 7th century, the language that is most similar to current Korean language has been recognized as the official language. Up until then, there was no formalized alphabet system in Korean; rather, Chinese characters were used to communicate. However, there is one strange variation in a way that the Chinese characters were used. While Chinese characters are ideograms, Koreans did not solely used Chinese characters in semantic ways. They used Chinese characters in both semantic and phonetic ways where certain meanings were represented with semantic usage of Chinese characters, and certain words in between semantic usage of Chinese characters were represented with phonetic usage of Chinese characters. Phonetic usage of Chinese characters followed Korean grammar where the morpheme (usually at the end of words with semantic meaning) only served the functionality of identifying the subject, object, tense of verbs, adjectives and adverbs. 
 
-Korean uses an alphabet known as Hangul. Hangul has 24 letter grouped into blocks (*han*), which each represent a syllable. For example, the block 한 (*han*) is a composition of the letters ㅎ (h), ㅏ (a), ㄴ (n). Internally, the letters in a block are ordered left to right and top to bottom, and sequences of blocks are written left-to-right.
+As it can be seen, combining Chinese characters and using it in both semantic and phonetic ways confused many people. Despite continuous integration of Chinese characters, such writing system (called "Yi-du") did not provide full flexibility in written communications, compared to the verbal communications. Additionally, since only a small number of higher-class people learned to read and write Chinese characters, most of people were not able to recognize written letters, which resulted in lower literacy rate among people. To resolve this problem, the alphabetical system known as Hangul was introduced in 1443 during Chosun Dynasty, by King Sejong and his scholars.
+
+
+
+
+
+Hangul has 24 letter grouped into blocks (*han*), which each represent a syllable. For example, the block 한 (*han*) is a composition of the letters ㅎ (h), ㅏ (a), ㄴ (n). Internally, the letters in a block are ordered left to right and top to bottom, and sequences of blocks are written left-to-right.
 
 There is approximately a 100% literacy rate (reading/writing) within South Korea. The country has many major publications, including books, newspapers, journals, websites, etc. There are no major impediments for literacy.
 
