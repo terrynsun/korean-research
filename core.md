@@ -1,8 +1,11 @@
 # Core Requirement
 
+
+##Word Order
 Korean is a SOV (subject-object-verb) language. The relative order of words in a sentence is fixed, but both the subject and object can be dropped (and become implied) from a sentence.
 너 (you) 밥 (rice) 먹었어 (ate)?
 
+##Inflectional Morphology
 Adjectives are pre-pended to the noun that they modify, and can be appended in series.
 빨간 (red) 사과 (apple)
 
