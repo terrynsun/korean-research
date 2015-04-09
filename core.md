@@ -23,6 +23,7 @@ There are two sets of numerals, one native Korean and one Sino-Korean (based on 
 
 ###Verb Inflection:
 Verbs are inflected for tense:
+
 너 밥 먹고있어? 
 *You* *meal* *eating?*
 
@@ -30,6 +31,7 @@ Verbs are inflected for tense:
 *You* *meal* *ate?*
 
 Verbs are also inflected for written/spoken language:
+
 (Spoken language) 밥 먹었어 
 *Meal* *ate*
 
@@ -46,6 +48,7 @@ Both verbs and nouns inflect for politeness:
 (Polite) 진지 잡수세요. 
 *Meal* *eat*
 
+###Pronoung Inflection:
 
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
