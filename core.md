@@ -17,28 +17,22 @@ Verbs are inflected for tense. Verbs are separated into processual verbs (action
 Both verbs and nouns inflect for politeness.
 
 야, 밥 먹어. (Casual)
-
-(Hey), (meal) (eat)
+*Hey*, *meal* *eat*
 
 진지 잡수세요. (Polite)
-
-(Meal) (eat)
+*Meal* *eat*
 
 너 밥 먹고있어? 
-
-(You) (meal) (eating?)
+*You* *meal* *eating?*
 
 너 밥 먹었어? 
-
-(You) (meal) (ate?)
+*You* *meal* *ate?*
 
 밥 먹었어 (Spoken language)
-
-(Meal) (ate)
+*Meal* *ate*
 
 밥 먹었다 (Written language)
-
-(Meal) (ate)
+*Meal* *ate*
 
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
