@@ -24,28 +24,30 @@ There are two sets of numerals, one native Korean and one Sino-Korean (based on 
 ###Verb Inflection:
 Verbs are inflected for tense:
 
-너 밥 먹고있어? 
+- 너 밥 먹고있어? 
 *You* *meal* *eating?*
 
-너 밥 먹었어? 
+- 너 밥 먹었어? 
 *You* *meal* *ate?*
 
 Verbs are also inflected for written/spoken language:
 
-(Spoken language) 밥 먹었어 
+- (Spoken language) 밥 먹었어 
 *Meal* *ate*
 
-(Written language) 밥 먹었다 
+- (Written language) 밥 먹었다 
 *Meal* *ate*
 
-Verbs are separated into processual verbs (action verbs) and descriptive verbs (eg. 붉다 *bukda*, "to be red").
+Verbs are separated into processual verbs (action verbs) and descriptive verbs: 
+
+- 붉다 *bukda*, "to be red"
 
 Both verbs and nouns inflect for politeness:
 
-(Casual) 야, 밥 먹어. 
+- (Casual) 야, 밥 먹어. 
 *Hey*, *meal* *eat*
 
-(Polite) 진지 잡수세요. 
+- (Polite) 진지 잡수세요. 
 *Meal* *eat*
 
 ###Pronoung Inflection:
