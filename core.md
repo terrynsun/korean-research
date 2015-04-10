@@ -61,8 +61,9 @@ Both verbs and nouns inflect for politeness:
 ## Speakers
 Korean is the official language of South Korea, North Korea and China's Yanbian Korean Autonomous Prefecture, and is spoken by approximately 80 million people worldwide. Of those, about 51 million reside in South Korea, and about 7 million overseas (2013). Most of expatriates reside in the US, Japan and China. Additionally, there are small number of people who speak Korean in Mongolia Autonomous Region and Russian Federation region (Uzbekistan, Kazakhstan, and Primorsky Krai).
 
-## Script, publications
-### History of Korean Script (Hangul):
+![USA's Korean Speakers](korean_speakers_USA.jpg)
+
+### History
 The verbal Korean language has been existing as early as 18 BC when the age of Three Kingdoms began, where each kingdom had its own language system that slightly differed from each other. Upon the unification of Korean peninsula in late 7th century, the language that is most similar to current Korean language has been recognized as the official language.
 
 Korean uses an alphabetical system known as Hangul, which was introduced in 15th century during Chosun Dynasty.
@@ -83,27 +84,22 @@ Similarly, the 14 basic consonants are the following:
 
 Syllables are generated through the combination of consonants and vowels.
 Characters in a syllable block are read left-to-right and top-to-bottom.
-There are 6 pre-determined allowable syllable structure.
+There are 6 pre-determined allowable syllable structure (shown below).
 Sequences of blocks are written left-to-right, and word tokens are delimited by spaces.
 A morpheme or suffix is attached to the end of a word to add inflection.
 
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/1.jpg?token=AKPPwzmH4ByOK0ry5sYy7VVa3VMMTlvZks5VLfqGwA%3D%3D)
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/2.jpg?token=AKPPw1qupeUgpcBtWFwTiA1Z73hYnkQiks5VLfqHwA%3D%3D)
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/3.jpg?token=AKPPw04Tkbp88cdwbXPBWGxbpSmQbZkvks5VLfqIwA%3D%3D)
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/4.jpg?token=AKPPw0bFy1lY-JJFwwUeVBF2q6mhBjtIks5VLfqIwA%3D%3D)
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/5.jpg?token=AKPPwx6wVq0sVL7cA-dh0V1Cg37IxjUWks5VLfqJwA%3D%3D)
-  - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/6.jpg?token=AKPPw6lmQmV8c5EHW-r5Wn3pJbt1pggpks5VLfqKwA%3D%3D)
+![Syllables Chart](syllables.png)
 
 Examples for each structure.
 
-  a) 가 (ㄱ + ㅏ) (*ga*)
-  b) 밥 (ㅂ + ㅏ + ㅂ) (*bab*)
-  c) 오 (ㅇ + ㅗ) (*oh*)
-  d) 복 (ㅂ + ㅗ + ㄱ) (*bok*)
-  e) 왜 (ㅇ + ㅙ) where ㅙ is the combination between ㅗ and ㅐ (*wae*)
-  f) 됐 (ㄷ + ㅙ + ㅆ) where ㅆ is the combination between ㅅ and ㅅ (*dw-ae-t*)
+- 가 (ㄱ + ㅏ) (*ga*)
+- 밥 (ㅂ + ㅏ + ㅂ) (*bab*)
+- 오 (ㅇ + ㅗ) (*oh*)
+- 복 (ㅂ + ㅗ + ㄱ) (*bok*)
+- 왜 (ㅇ + ㅙ) where ㅙ is the combination between ㅗ and ㅐ (*wae*)
+- 됐 (ㄷ + ㅙ + ㅆ) where ㅆ is the combination between ㅅ and ㅅ (*dw-ae-t*)
 
-According to CIA the World Factbook, the literacy rate for the total population is 97.9%; male with 99.2% and female with 96.6%. Korea has many major publications throughout all sectors including books, newspapers, journals, websites, etc. There are no major impediments for literacy. 
+According to CIA the World Factbook, the literacy rate for the total population is 97.9%; male with 99.2% and female with 96.6%. Korea has many major publications throughout all sectors including books, newspapers, journals, websites, etc. There are no major impediments for literacy.
 
 ## MT Systems
 Most Machine Translation systems have systems in Korean (e.g., Google, Bing, and Korean local web provider Naver).
