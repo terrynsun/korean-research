@@ -94,30 +94,32 @@ A morpheme or suffix is attached to the end of a word to add inflection.
   - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/5.jpg?token=AKPPwx6wVq0sVL7cA-dh0V1Cg37IxjUWks5VLfqJwA%3D%3D)
   - ![alt tag](https://raw.githubusercontent.com/terrynsun/korean-research/master/6.jpg?token=AKPPw6lmQmV8c5EHW-r5Wn3pJbt1pggpks5VLfqKwA%3D%3D)
 
-Example for each 6 structure:
-  a) 가 (ㄱ + ㅏ) (pronounced as 'ga')
-  b) 밥 (ㅂ + ㅏ + ㅂ) (pronounced as 'bab')
-  c) 오 (ㅇ + ㅗ) (pronounced as 'oh')
-  d) 복 (ㅂ + ㅗ + ㄱ) (pronounced as 'bok')
-  e) 왜 (ㅇ + ㅙ) where ㅙ is the combination between ㅗ and ㅐ (pronounced as 'wae')
-  f) 됐 (ㄷ + ㅙ + ㅆ) where ㅆ is the combination between ㅅ and ㅅ (pronounced as 'dw-ae-t')
+Examples for each structure.
+
+  a) 가 (ㄱ + ㅏ) (*ga*)
+  b) 밥 (ㅂ + ㅏ + ㅂ) (*bab*)
+  c) 오 (ㅇ + ㅗ) (*oh*)
+  d) 복 (ㅂ + ㅗ + ㄱ) (*bok*)
+  e) 왜 (ㅇ + ㅙ) where ㅙ is the combination between ㅗ and ㅐ (*wae*)
+  f) 됐 (ㄷ + ㅙ + ㅆ) where ㅆ is the combination between ㅅ and ㅅ (*dw-ae-t*)
 
 According to CIA the World Factbook, the literacy rate for the total population is 97.9%; male with 99.2% and female with 96.6%. Korea has many major publications throughout all sectors including books, newspapers, journals, websites, etc. There are no major impediments for literacy. 
 
 ## MT Systems
-Most Machine Translation systems have systems in Korean (e.g., Google, Bing, and Korean local web provider Naver). 
-The following paragrah is an excerpt from Wikipedia's article on Computer Science:
+Most Machine Translation systems have systems in Korean (e.g., Google, Bing, and Korean local web provider Naver).
+
+The following paragrah is a translated excerpt from Wikipedia's article on Computer Science:
 "There is a sub-field of computer science applications can be divided into purely theoretical and practical skills in the field of computer systems running on your computer. It is calculated as the basic properties and also some theoretical calculations to study the complexity of the problem is very abstract, and other computer graphics and it focuses on real-world applications. Another sub-field focuses on the calculation execution. For example, programming language theory and study the approach of calculation described above, the computer program itself study investigating different aspects of using the programming language and the complex system, human-computer interaction with the computer to calculate a useful and humans emphasis to easily create a universally accessible."
 
-## NLP Research in Korean
-There are many academics and professionals who are conducting research in Korean. As shown from previous examples, there is a group in Penn whose focus is Korean. Additionally, there are many domestic universities in Korea that run NLP / Machine Translation labs (e.g., POSTECH(http://nlp.postech.ac.kr/), KAIST(http://nlpcl.kaist.ac.kr/home/), and SNU (http://ids.snu.ac.kr/wiki/Intelligent_Data_Systems_Laboratory)). 
+## NLP Research & Tools
 
-## NLP Tools in Korean
-There exist many NLP tools that allow people to computationally analyze the Korean language. Penn even has a Korean NLP group which consists of three main projects: Korean XTAG, Korean Treebank, and Korean/English Machine Translation (http://www.cis.upenn.edu/~xtag/koreantag/). Korean XTAG is an on-going project attempting to develop a Korean grammar using Feature-Based Lexicalized Tree Adjoining Grammar (LTAG) formalism. A Korean Treebank is a corpus annotated with morphological and syntactic information, similar to what we have seen in other tree banks. Korean Corpus is also available, which is retrieved mostly from the texts of military language training manuals. Along with Korean Corpus, the Part-of-speech tagging method is available.
+There are many academics and professionals who conduct research on the Korean language. There is a group at Penn whose focus is Korean. Additionally, there are many domestic universities in Korea that run NLP / Machine Translation labs (e.g., [POSTECH](http://nlp.postech.ac.kr/), [KAIST](http://nlpcl.kaist.ac.kr/home/), and [SNU] (http://ids.snu.ac.kr/wiki/Intelligent_Data_Systems_Laboratory)).
+
+There exist many NLP tools that allow people to computationally analyze the Korean language. Penn even has a Korean NLP group which consists of three main projects: Korean XTAG, Korean Treebank, and [Korean/English Machine Translation] (http://www.cis.upenn.edu/~xtag/koreantag/). Korean XTAG is an on-going project attempting to develop a Korean grammar using Feature-Based Lexicalized Tree Adjoining Grammar (LTAG) formalism. A Korean Treebank is a corpus annotated with morphological and syntactic information, similar to what we have seen in other treebanks. Korean Corpus is also available, which is retrieved mostly from the texts of military language training manuals. Along with Korean Corpus, the Part-of-speech tagging method is available.
 
 The National Institute of the Korean Language (NIKL) also provides information on Corpus and morphological analysis through its website, and contains may open source resources such as KoKoMa NLP toolkit.
 
-Also, there is a Korean NLP package written in Python, called "KoNLP." (http://dm.snu.ac.kr/~epark/docs/2014-10-10-hclt.pdf) It provides the basic functionality of NLP analysis such as POS tagging, and morphological analysis. The structure of the package resembles that of NLTK package, so it is relatively easy to use. 
+There is a Korean NLP package written in Python, called [KoNLP] (http://dm.snu.ac.kr/~epark/docs/2014-10-10-hclt.pdf). It provides the basic functionality of NLP analysis such as PoS tagging, and morphological analysis. The structure of the package resembles that of NLTK package, so it is relatively easy to use.
 
 
 ##Citations:
@@ -129,4 +131,3 @@ The Background of Hangeul Invention. The National Institute of the Korean Langua
 
 3. The Literacy Rate
 People and Society :: KOREA, SOUTH. The World Factbook, The Central Intelligence Agency. 20. June. 2014. <https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html>
-
