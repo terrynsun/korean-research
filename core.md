@@ -19,8 +19,6 @@ Substantives are subdivided into nouns, pronouns, and numerals. Nouns are made p
 
 There are two sets of numerals, one native Korean and one Sino-Korean (based on the Chinese numerals). There is a distinction made between the two systems, where each countable should be expressed with only one of the two systems.
 
-### Pronoun Inflection:
-
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
 |     | Singular                             | Plural                       |
@@ -61,13 +59,13 @@ Both verbs and nouns inflect for politeness:
 ## Speakers
 Korean is the official language of South Korea, North Korea and China's Yanbian Korean Autonomous Prefecture, and is spoken by approximately 80 million people worldwide. Of those, about 51 million reside in South Korea, and about 7 million overseas (2013). Most of expatriates reside in the US, Japan, and China, where there are significant Korean cultural enclaves spanning multiple generations. For example, Koreans form 40% of Japan's non-ethnic Japanese population (about 900,000 people, 2005), and about 75% of those people were born in Japan. Additionally, there are small number of people who speak Korean in Mongolia Autonomous Region and Russian Federation region (Uzbekistan, Kazakhstan, and Primorsky Krai).
 
-The spread of Koreans living in America:
+The distribution of Koreans living in America:
 
 ![USA's Korean Speakers](korean_speakers_USA.jpg)
 
 Korean dialects differ between North and various parts of South Korea. South Korea's Standard Korean was influenced by the Seoul dialect (though it doesn't include features eclusive to the Seoul region). Different regions of Korea have local dialects, as do Korean enclaves in Japan and China, which are influenced by the local language.
 
-North and South Korean are generally intelligible, though pronunciation, vocabulary, and grammar have diverged between the two. Notably, North Korea's vocabulary reflects the ideology of the culture and excludes anglicisms, instead using invented Korean words (for recently introduced words) or words that were instead borrowed from Russian.
+North and South Korean dialects are generally intelligible, though pronunciation, vocabulary, and grammar have diverged between the two. Notably, North Korea's vocabulary reflects the ideology of the culture and excludes anglicisms, instead using invented Korean words (for recently introduced words) or words that were instead borrowed from Russian.
 
 ## Korean Script
 
