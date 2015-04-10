@@ -2,57 +2,24 @@
 
 ## Language Overview
 
-The verbal Korean language has been existing as early as 18 BC when the age of Three Kingdoms began, where each kingdom had its own language system that slightly differed from each other. Upon the unification of Korean peninsula in late 7th century, the language that is most similar to current Korean language has been recognized as the official language. 
-
 Korean is a SOV (subject-object-verb) language. The relative order of words in a sentence is fixed, but both the subject and object can be dropped (and become implied) from a sentence.
-
 나 밥 먹었어
-*I rice ate*
+(*I rice ate*)
 
 Adjectives are pre-pended to the noun that they modify, and can be appended in series.
-빨간 (red) 사과 (apple)
+빨간 사과
+(*red apple*)
 
-##Inflectional Morphology
+## Inflectional Morphology
 
-###Gender: 
 The modern system of classifying Korean words uses 9 parts of speech. Words do not have grammatical gender.
 
-###Substantitives (category of nouns): 
+### Substantitives (category of nouns):
 Substantives are subdivided into nouns, pronouns, and numerals. Nouns are made plural with a suffix 들 (*deul*), but only when the plurality of the modified noun is not contextually known.
 
-###Numerals:
 There are two sets of numerals, one native Korean and one Sino-Korean (based on the Chinese numerals). There is a distinction made between the two systems, where each countable should be expressed with only one of the two systems.
 
-###Verb Inflection:
-Verbs are inflected for tense:
-
-- 너 밥 먹고있어? 
-*You* *meal* *eating?*
-
-- 너 밥 먹었어? 
-*You* *meal* *ate?*
-
-Verbs are also inflected for written/spoken language:
-
-- (Spoken language) 밥 먹었어 
-*Meal* *ate*
-
-- (Written language) 밥 먹었다 
-*Meal* *ate*
-
-Verbs are separated into processual verbs (action verbs) and descriptive verbs: 
-
-- 붉다 *bukda*, "to be red"
-
-Both verbs and nouns inflect for politeness:
-
-- (Casual) 야, 밥 먹어. 
-*Hey*, *meal* *eat*
-
-- (Polite) 진지 잡수세요. 
-*Meal* *eat*
-
-###Pronoung Inflection:
+### Pronoun Inflection:
 
 Pronouns are differentiated by level of politeness. There are no formal 3rd person pronouns used. Instead, level of formality is implied by context in the sentence.
 
@@ -62,11 +29,42 @@ Pronouns are differentiated by level of politeness. There are no formal 3rd pers
 | 2nd | 너 (*neo*)                           | 너희 (*neohui*)              |
 | 3rd | 그 (*geu*, he)/그녀 (*geunyeo*, she) | 그들 (*geudeul*)             |
 
+### Verbs:
+Verbs are inflected for tense:
+
+- 너 밥 먹고있어?
+*You meal eating?*
+
+- 너 밥 먹었어?
+*You meal ate?*
+
+Verbs are also inflected for written/spoken language:
+
+- (Spoken language) 밥 먹었어
+*Meal ate*
+
+- (Written language) 밥 먹었다
+*Meal ate*
+
+Verbs are separated into processual verbs (action verbs) and descriptive verbs:
+
+- 붉다 *bukda*, "to be red"
+
+Both verbs and nouns inflect for politeness:
+
+- (Casual) 야, 밥 먹어.
+*Hey, meal eat*
+
+- (Polite) 진지 잡수세요.
+*Meal eat*
+
 ## Speakers
 Korean is the official language of South Korea, North Korea and China's Yanbian Korean Autonomous Prefecture, and is spoken by approximately 80 million people worldwide. Of those, about 51 million reside in South Korea, and about 7 million overseas (2013). Most of expatriates reside in the US, Japan and China. Additionally, there are small number of people who speak Korean in Mongolia Autonomous Region and Russian Federation region (Uzbekistan, Kazakhstan, and Primorsky Krai).
 
 ## Script, publications
 ### History of Korean Script (Hangul):
+The verbal Korean language has been existing as early as 18 BC when the age of Three Kingdoms began, where each kingdom had its own language system that slightly differed from each other. Upon the unification of Korean peninsula in late 7th century, the language that is most similar to current Korean language has been recognized as the official language.
+
 Korean uses an alphabetical system known as Hangul, which was introduced in 15th century during Chosun Dynasty.
 Up until then, there was no formalized alphabet system in Korean; rather, Chinese characters were used to communicate.
 Chinese characters are traditionally ideograms, but were used in both semantic and phonetic ways to represent Korean grammar.
