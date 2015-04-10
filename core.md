@@ -59,9 +59,17 @@ Both verbs and nouns inflect for politeness:
 *Meal eat*
 
 ## Speakers
-Korean is the official language of South Korea, North Korea and China's Yanbian Korean Autonomous Prefecture, and is spoken by approximately 80 million people worldwide. Of those, about 51 million reside in South Korea, and about 7 million overseas (2013). Most of expatriates reside in the US, Japan and China. Additionally, there are small number of people who speak Korean in Mongolia Autonomous Region and Russian Federation region (Uzbekistan, Kazakhstan, and Primorsky Krai).
+Korean is the official language of South Korea, North Korea and China's Yanbian Korean Autonomous Prefecture, and is spoken by approximately 80 million people worldwide. Of those, about 51 million reside in South Korea, and about 7 million overseas (2013). Most of expatriates reside in the US, Japan, and China, where there are significant Korean cultural enclaves spanning multiple generations. For example, Koreans form 40% of Japan's non-ethnic Japanese population (about 900,000 people, 2005), and about 75% of those people were born in Japan. Additionally, there are small number of people who speak Korean in Mongolia Autonomous Region and Russian Federation region (Uzbekistan, Kazakhstan, and Primorsky Krai).
+
+The spread of Koreans living in America:
 
 ![USA's Korean Speakers](korean_speakers_USA.jpg)
+
+Korean dialects differ between North and various parts of South Korea. South Korea's Standard Korean was influenced by the Seoul dialect (though it doesn't include features eclusive to the Seoul region). Different regions of Korea have local dialects, as do Korean enclaves in Japan and China, which are influenced by the local language.
+
+North and South Korean are generally intelligible, though pronunciation, vocabulary, and grammar have diverged between the two. Notably, North Korea's vocabulary reflects the ideology of the culture and excludes anglicisms, instead using invented Korean words (for recently introduced words) or words that were instead borrowed from Russian.
+
+## Korean Script
 
 ### History
 The verbal Korean language has been existing as early as 18 BC when the age of Three Kingdoms began, where each kingdom had its own language system that slightly differed from each other. Upon the unification of Korean peninsula in late 7th century, the language that is most similar to current Korean language has been recognized as the official language.
@@ -72,7 +80,7 @@ Chinese characters are traditionally ideograms, but were used in both semantic a
 Additionally, only a small number of higher-class people learned to write Chinese characters and few people learned to read.
 These factors resulted in a low literacy rate. To resolve this problem, King Sejong and his scholars introduced Hangul.
 
-### Structure of Script:
+### Structure
 Hangul is composed of 10 vowels and 14 consonants, which reprsent the basic vowels and consonants in the system.
 Using the combinations of vowels and consonants, different vowels or consonants can be generated.
 Vowels are invented by the 'Yin-Yang' idea. Specifically, 'basic vowels' are of the form '.', 'ㅡ', 'ㅣ'; each component represents sky (sun), earth or human.
@@ -102,7 +110,8 @@ Examples for each structure.
 According to CIA the World Factbook, the literacy rate for the total population is 97.9%; male with 99.2% and female with 96.6%. Korea has many major publications throughout all sectors including books, newspapers, journals, websites, etc. There are no major impediments for literacy.
 
 ## MT Systems
-Most Machine Translation systems have systems in Korean (e.g., Google, Bing, and Korean local web provider Naver).
+Most machine translation systems support Korean (e.g., Google, Bing, and
+Korean local web provider Naver).
 
 The following paragrah is a translated excerpt from Wikipedia's article on Computer Science:
 "There is a sub-field of computer science applications can be divided into purely theoretical and practical skills in the field of computer systems running on your computer. It is calculated as the basic properties and also some theoretical calculations to study the complexity of the problem is very abstract, and other computer graphics and it focuses on real-world applications. Another sub-field focuses on the calculation execution. For example, programming language theory and study the approach of calculation described above, the computer program itself study investigating different aspects of using the programming language and the complex system, human-computer interaction with the computer to calculate a useful and humans emphasis to easily create a universally accessible."
@@ -117,8 +126,7 @@ The National Institute of the Korean Language (NIKL) also provides information o
 
 There is a Korean NLP package written in Python, called [KoNLP] (http://dm.snu.ac.kr/~epark/docs/2014-10-10-hclt.pdf). It provides the basic functionality of NLP analysis such as PoS tagging, and morphological analysis. The structure of the package resembles that of NLTK package, so it is relatively easy to use.
 
-
-##Citations:
+## Citations:
 1. History of Korean Script:
 Individual Letters of Hangeul and Its Principles. The National Institute of the Korean Language. Jan. 2008. <http://www.korean.go.kr/eng_hangeul/index.html>
 
