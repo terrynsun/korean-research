@@ -16,3 +16,20 @@ CIS526: Language Research: Korean
 
 ## Additional Requirements
 
+# Harvesting Korean Tweets using Twitter Stream Scraper and location queries.
+- to query by location, run the commands below. The csv for the locations flag is a location bounding box:
+
+
+cd twitter-streamer/streamer
+
+export CONSUMER_KEY="LSQe164WCwIni2hNINULykjOr"
+
+export CONSUMER_SECRET="dFbFjvVC2nY2cVMQKTNgurEg6gIAOfCgxKCz9ZGFX50LD0x8hW"
+
+export ACCESS_KEY="2769946169-kqh7dvqbjYguXhT8oRijV8T78hRiolW89K6L3HP"
+
+export ACCESS_SECRET="1bJznevOG6hLvpaqPFnGFf1de759utS9NEWuPmrteMP3Y"
+
+- to query based on location:
+
+python streamer.py -f=place.full_name,created_at,user.name,coordinates.coordinates,text --locations="123.48,33.14,129.16,38.89" > korean_tweets
