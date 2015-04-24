@@ -4,6 +4,8 @@ CIS526: Language Research: Korean
 ## Additional Requirements
 - [ ] Monolingual data (1 pt) - can use the Korean Wikipedia data dump (~460M)
 - [x] Bilingual data (1 pt) - Quran translation from Tanzil project
+- [x] Bilingual dictionary (1 pt) - Scraped from bab.la
+- [ ] Twitter data (2 pts)
 
 ## Core Requirements
 - [x] Write a 1 page description about the syntax and morphology of the language that includes information like the following:
