@@ -1,18 +1,50 @@
 CIS526: Language Research: Korean
 =================================
 
-## Core Requirements
-- [ ] Write a 1 page description about the syntax and morphology of the language that includes information like the following:
-   - [ ] What is the canonical order of the elements of the sentence (like Subject/Object/Verb, and Adjective/Noun)?
-   - [ ] Does the language have free word order, or does the order tend to be fixed?
-   - [ ] What sort of inflectional morphology does the language use? Do verbs inflect for person, number, tense?
-   - [ ] How many cases and/or genders does the language have?
-   - [ ] What pronouns does the language have? Are they differentiated by levels of politeness?
-   - [ ] The World Atlas of Language Structures online is a great source of this information. If possible, your writeup should give examples of sentences in the language that illustrate these properties, along with interlinear glosses into English. You can often find these in the grammar books that WALS cites as evidence for the features. Grammar books are often available in the Penn library, and are sometimes available for purchase from Google.
+## Monolingual data (1 pt)
 
-- [ ] Give about a half page description of who speaks the language. How many speakers of the language are there? Where is the language spoken? What other languages are people in that area exposed to? Are most people bilingual? Include a map showing where the language is spoken.
-- [ ] If the language uses a script other than the Roman alphabet, what script does it use? Is it written left-to-right like English or right-to-left like Arabic? Are there any major publications that are written in the language? What faction of the speakers of the language can write in it? Are there any impediments (e.g. no keyboards for the script)?
-- [ ] Do any online machine translation systems exist for the language? If so, give an example of an English translation of a paragraph from a Wikipedia article written in that language. Have there been any machine translation research papers that examine the language? The Machine Translation Archive is a good place to look for research papers. Can you find any other existing NLP tools (for instance, parser or treebanks or morphological analyzers)?
+Downloaded the [Korean Wikipedia dumps](http://dumps.wikimedia.org/kowiki/).
+Used BeautifulSoup with lxml (an XML parsing library) to extract to document
+body text for each page. The resulting dump file contains all of the body text
+for each Wikipedia page, including headings. Meta pages (lists of other pages)
+are omitted. Basic Wikipedia formatting has been removed (text between braces is
+removed; double brackets are removed to leave link text present, appropriately
+handled if there is a `[[display|link]]`).
 
-## Additional Requirements
+The original dump was 1.8G. I parsed 763,540 pages for about 3.3 million
+lines at a total of 182M. The submitted file is about 51M.
 
+* Python: `scrape.py`
+* Data: `monolingual-data/wikipedia.txt.bz2`
+
+## Bilingual data (1 pt)
+
+Data is taken from the Tanzil project compiling translations of the Quran. Two
+files that are sentence-aligned (one per line). 93,540 lines.
+
+Origin: http://opus.lingfil.uu.se/Tanzil.php
+Citation:
+ Jörg Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In
+ Proceedings of the 8th International Conference on Language Resources and
+ Evaluation (LREC 2012)
+
+* Korean: `bilingual-data/Tanzil.ko`
+* English: `bilingual-data/Tanzil.en`
+
+## Bilingual dictionary (1 pt)
+
+Wrote a online dictionary scraper with BeatifulSoup to query bab.la. The output
+is a TSV file with the columns:
+
+foreign word, english word, translation, part of speech, definition
+
+The english corpus consisted of the 1000 most common words, as decided by [ESL
+Desk](http://www.esldesk.com/vocabulary/words) (which had the most easily
+copy-able list).
+
+* Python: `dictionary/scrape.py`
+* Dictionary: `dictionary/dict.tsv`
+
+## Twitter data (2 pts)
+
+TODO
