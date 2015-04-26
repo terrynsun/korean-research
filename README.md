@@ -50,6 +50,7 @@ copy-able list).
 Run the commands below to query for tweets within the bounding box of Korea:
 
 `cd twitter-data/twitter-streamer/streamer`
+
 `python streamer.py -f=place.full_name,created_at,user.name,coordinates.coordinates,text --locations="123.48,33.14,129.16,38.89" > korean_tweets`
 
 * 100 Labeled Twitter Data: `twitter-data/korean_tweets`
