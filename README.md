@@ -44,6 +44,7 @@ copy-able list).
 
 * Python: `dictionary/scrape.py`
 * Dictionary: `dictionary/dict.tsv`
+* Another Dictionary: directly scrapped from the text dictionary data (English Word - POS Tag - Meaning format. If there are more than one meanings, then it is separated either by semicolon or comma)
 
 ## Twitter data (2 pts)
 
