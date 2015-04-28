@@ -44,8 +44,8 @@ copy-able list).
 
 * Python: `dictionary/scrape.py`
 * Dictionary: `dictionary/dict.tsv`
-* Another Dictionary: directly scrapped from the text dictionary data 
-** English Word - POS Tag - Meaning format. Idioms (either noun or verbal phrases) do not have POS Tag. If there are more than one meanings, then it is separated either by semicolon or comma.
+* Dictionary from A to Z: directly scrapped from the text dictionary data 
+* Of [English Word - POS Tag - Meaning] format. Idioms (either noun or verbal phrases) do not have POS Tag. If there are more than one meanings, then it is separated either by semicolon or comma.
 
 ## Twitter data (2 pts)
 
