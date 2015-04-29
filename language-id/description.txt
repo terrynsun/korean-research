@@ -1,0 +1,27 @@
+This section of the project is a Romanized Korean language identification system. Since regular Korean script is easy to identify -- by virtue of having a unique character system (Hangeul) -- I chose to identify Romanized script as a more challenging problem.
+
+There are relatively few sources of Romanized Korean on the web (the primary one is translated KPop lyrics), so I used an online converter [http://www.lexilogos.com/keyboard/korean_conversion.htm] to generate Romanized versions of newspaper articles written in Hangeul. The articles come from The Chosun Ilbo [http://www.chosun.com/], a South Korea daily with a circulation of over 1,800,000.
+
+I also collected English text from the Wikipedia article on South Korea [http://en.wikipedia.org/wiki/South_Korea], to be used for testing the performance of the system.
+
+My approach is discriminative: I first used a set of pre-training text (Romanized Korean) to compute the k-most-frequent 2-letter, 3-letter, and 4-letter sequences in the text. I thought these were likely to be different from the most-frequent letter sequences in English, and would thus be good predictors for language identification. For training, I computed these features -- the relative frequencies of each sequence -- for English and Korean sentences, and fit a Logistic Regression classifier to this data.
+
+[System Peformance]
+
+
+
+Files
+
+generateData.py - Uses a tokenizer from NLTK to pick out sentences from `eng_train_raw`, `kor_train_raw`, `eng_test_raw`, and `kor_test_raw`, and does some additional cleanup (removing punctuation, numbers, etc.).
+
+languageIdMain.py - Generates features for training and test data, and fits a logistic regression classifier to the data.
+
+data/kor_pretrain - Raw text from converted articles in The Chosun Ilbo, to be used for feature generation.
+
+data/eng_raw - Raw English text from the Wikipedia article on South Korea.
+
+data/eng - Post-processed sentence-level text from `eng_raw`, to be used for discriminative training and testing.
+
+data/kor_raw - Raw Romanized Korean text from converted articles in The Chosun Ilbo.
+
+data/kor - Post-processed sentence-level text from `kor_train_raw`, to be used for discriminative training and testing.
