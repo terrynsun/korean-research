@@ -1,4 +1,4 @@
-CIS526: Language Research: Korean
+﻿CIS526: Language Research: Korean
 =================================
 
 ## 1. Monolingual data (1 pt)
@@ -30,6 +30,24 @@ Citation:
 
 * Korean: `bilingual-data/Tanzil.ko`
 * English: `bilingual-data/Tanzil.en`
+
+## 5. Language Identification (2 pts)
+
+Discriminative Language ID system for Romanized Korean (since Hangeul is trivial to identify). Korean text is from The Chosun Ilbo [http://www.chosun.com/], a South Korea daily with circulation of over 1,800,000. Articles are written in Hangeul, so I used an online converter [http://www.lexilogos.com/keyboard/korean_conversion.htm] to generate Romanized text. English text comes from the Wikipedia article on South Korea [http://en.wikipedia.org/wiki/South_Korea].
+
+Features are generated from `kor_pretrain.txt`, also taken from The Chosun Ilbo. The features are the 12-most-frequent 2-letter, 3-letter, and 4-letter sequences in the text. The classifier is a logistic ridge regression, fit to 60 percent of the data. The remaining 40 percent is set aside as a test set.
+
+The classifier achieved 0.9912 accuracy, averaged across 10 trials. This high accuracy (together with the small amount of data used) indicates that Romanized Korean contains distinct letter sequences that make it easy to recognize.
+
+Data is already prepared. To run the model:
+
+`python languageIdMain.py`
+
+Files:
+* `generateData.py` - Use NLTK tokenizer to clean up raw data and pick out sentences.
+* `generateFeatures.py` - Compute k-most-frequent letter sequences in pretrain data.
+* `languageIdMain.py` - Generate features for train/test sentences, fit logistic regression and report accuracy.
+* Data: `kor_pretrain`, `eng_raw`, `eng`, `kor_raw`, `kor`, `features`
 
 ## 6. Twitter data (2 pts)
 
